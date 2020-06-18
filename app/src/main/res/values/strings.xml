@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ex21_HTTP</string>
+    <string name="n_paginas">%d páginas</string>
+</resources>
